@@ -6,8 +6,10 @@ This calculator has two modes: Standard Mode and Scientific Mode
 
 ### Standard Mode:
 This mode has the ability to perform only the basic calculations like addition, subtraction, multiplication, division, square and root square.
+
 ![](standard.png)
 
 ### Scientific Mode:
 In this mode we can have more advance calculations like trignometric calculations, logarithmic calculations, exponential calculations, etc
+
 ![](scientific.png)
