@@ -1,4 +1,4 @@
-# Scientific-Calculator
+# Scientific Calculator
 
 A calculator with the ability to perform scientific calculations developed using Python.
 
